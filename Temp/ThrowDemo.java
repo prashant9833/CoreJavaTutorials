@@ -1,4 +1,4 @@
-public class ThrowDemo
+;kh bdth mtrpublic class ThrowDemo
 {
 static ArithmeticException e;
 
